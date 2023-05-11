@@ -7,6 +7,7 @@ We were to refactor the code for the webpage without changing its appearance.
 I went through both the index.html and style.css and:
 - looked for non-semantic elements.  Those were updated.
 - looked for places where there was redundant code (like in the css). Those were consolidated.
+- changed the order of some elements in the css so that they flow with the order of elements on the html.
 - updated the copyright year.
 
 ## Getting Started
