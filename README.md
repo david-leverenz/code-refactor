@@ -2,6 +2,11 @@
 
 We were to refactor the code for the webpage without changing its appearance.
 
+## Links
+Github link: https://github.com/david-leverenz/code-refactor
+
+Live link: https://david-leverenz.github.io/code-refactor/
+
 ## Description
 
 I went through both the index.html and style.css and:
