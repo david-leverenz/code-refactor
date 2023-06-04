@@ -1,4 +1,4 @@
-Code is annotated for a bette grade.
+Code is annotated for a better grade.
 
 # Code Refactor
 
