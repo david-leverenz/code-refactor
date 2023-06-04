@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed the name of the navigation bar and the right margin, also deleted the head dive ul and header div ul li */
 .topnavlinks {
     padding-top: 15px;
     margin-right: 10px;
@@ -32,9 +33,10 @@ body {
     font-size: 20px;
     display: inline;
     margin-left: 25px;
-    /* list-style-type: none; */
+    /* commented this out: list-style-type: none; */
 }
 
+/* changed the right margin */
 a {
     margin-right: 20px;
     color: #ffffff;
@@ -55,6 +57,7 @@ p {
     background-position: center;
 }
 
+/* added content, content-main, content-main img and to consolidate repetitive css */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,7 +93,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    /* height: 940px; */
+    /* fixed the height by commenting it out: height: 940px; */
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -101,11 +104,13 @@ p {
     color: #ffffff;
 }
 
+/* added more appropriate class name */
 .benefit-detail h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* added more appropriate class name */
 .benefit-detail img {
     display: block;
     margin: 10px auto;
