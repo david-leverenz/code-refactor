@@ -1,3 +1,5 @@
+Code is annotated for a bette grade.
+
 # Code Refactor
 
 We were to refactor the code for the webpage without changing its appearance.
